@@ -38,19 +38,6 @@ Amazon-Clone/
 
 ## 📸 Screenshot
 
-> Add a screenshot of your project here.
-
-Example:
-
-```
-images/screenshot.png
-```
-
-Then use:
-
-```md
-![Amazon Clone Screenshot](images/screenshot.png)
-```
 
 ## 🎯 Learning Outcomes
 
